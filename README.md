@@ -1,7 +1,4 @@
 # axios-vue
-<<<<<<< HEAD
-学习axios 在vue中的使用
-=======
 
 ## Project setup
 ```
@@ -27,7 +24,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> ad626f5... init
